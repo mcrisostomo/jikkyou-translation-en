@@ -51,3 +51,9 @@ This is an unofficial fan translation project. It is not affiliated with or endo
 ## Contributing
 
 Contributors should read the documentation in `docs/` before changing formats or assumptions. Keep research reproducible, document discoveries in English, avoid committing ROM images, and ensure that generated artifacts can be recreated from source. Translation changes should preserve the established terminology and encoding rules once those rules have been validated.
+
+## AI-Assisted Development
+
+This project is developed with extensive assistance from artificial intelligence. ChatGPT and Codex are used to support research, reverse engineering, script development, documentation, troubleshooting, and translation assistance across the project.
+
+The human maintainer directs the project, makes the relevant decisions, and reviews and validates the results. AI-produced results are not automatically considered correct and must be checked before they are accepted or used. This statement describes the project's development approach and does not claim that any particular test, translation, or technical result has already been completed.
