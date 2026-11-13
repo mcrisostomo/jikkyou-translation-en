@@ -1,0 +1,13 @@
+{
+  "name": "jikkyou-translation-en",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Research and development project for an English translation of Jikkyou World Soccer 2 - Fighting Eleven for SNES.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
